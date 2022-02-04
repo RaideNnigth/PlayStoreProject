@@ -1,9 +1,19 @@
 const gameManager = new GameManager()
-gameManager.start();
 
 $(document).ready(function() {
     $('.game-container').click(function() {
-        console.log(this.id);
+        switch (this.id.slice(2,4)) {
+            case "00":
+                gameManager.refreshAction();
+                break;
+            case "62":
+                gameManager.storeAction(100);
+                break;
+            default:
+                gameManager.CallGameEmbed("game-link", "game-info");
+                break;
+        }
     })
-
 });
+
+gameManager.start();
