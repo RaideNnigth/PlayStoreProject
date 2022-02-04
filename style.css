@@ -118,6 +118,9 @@ body {
     width: 56vw;
     height: 25vh;
   }
+  #ij62{
+    background-size: 18vw 8vh;
+  }
 }
 @media screen and (min-width: 296px) and (max-width: 320px) {
   .cell-grid {
@@ -139,12 +142,15 @@ body {
   }
   .game-container {
     width: 23vw;
-    height: 14vh;
+    height: 12vh;
   }
   #ij01,
   #ij30 {
     width: 53vw;
-    height: 32vh;
+    height: 27vh;
+  }
+  #ij62{
+    background-size: 16vw 9vh;
   }
 }
 @media screen and (min-width: 401px) and (max-width: 430px) {
@@ -153,12 +159,15 @@ body {
   }
   .game-container {
     width: 23vw;
-    height: 14vh;
+    height: 10vh;
   }
   #ij01,
   #ij30 {
-    width: 53vw;
-    height: 32vh;
+    width: 54vw;
+    height: 26vh;
+  }
+  #ij62{
+    background-size: 17vw 8vh;
   }
 }
 @media screen and (min-width: 520px) and (max-width: 560px) {
@@ -177,6 +186,9 @@ body {
     width: 54vw;
     height: 38vh;
   }
+  #ij62{
+    background-size: 17vw 12vh;
+  }
 }
 @media screen and (min-width: 760px) and (max-width: 800px) {
   #ij00 {
@@ -193,6 +205,9 @@ body {
   #ij30 {
     width: 51vw;
     height: 38vh;
+  }
+  #ij62{
+    background-size: 17vw 13vh;
   }
 }
 @media screen and (min-width: 900px) and (max-width: 920px) {
@@ -211,6 +226,9 @@ body {
     width: 51vw;
     height: 35vh;
   }
+  #ij62{
+    background-size: 18vw 12vh;
+  }
 }
 @media screen and (min-width: 1000px) and (max-width: 1290px) {
   #ij00 {
@@ -227,5 +245,8 @@ body {
   #ij30 {
     width: 46vw;
     height: 69vh;
+  }
+  #ij62{
+    background-size: 15vw 24vh;
   }
 }
