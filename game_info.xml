@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <columns>
+    <Blocao index="5">Blocao</Blocao>
+    <Categorias index="3">Categorias</Categorias>
+    <Link index="6">Link</Link>
+    <Nome index="1">Nome</Nome>
+    <Notas index="4">Notas</Notas>
+    <Variacoes index="2">Variacoes</Variacoes>
+  </columns>
+  <Games>
+    <Game index="1">
+      <Blocao>Sim</Blocao>
+      <Categorias>Medio</Categorias>
+      <Link>https://www.addictinggames.com/embed/html5-games/24806</Link>
+      <Nome>Caves</Nome>
+      <Notas>10</Notas>
+      <Variacoes>Todo dia</Variacoes>
+    </Game>
+    <Game index="2">
+      <Blocao>Nao</Blocao>
+      <Categorias>Facil</Categorias>
+      <Link>https://www.addictinggames.com/embed/html5-games/24919</Link>
+      <Nome>Skydrop</Nome>
+      <Notas>5</Notas>
+      <Variacoes>Varia</Variacoes>
+    </Game>
+    <Game index="3">
+      <Blocao>Nao</Blocao>
+      <Categorias>Facil</Categorias>
+      <Link>https://www.addictinggames.com/embed/html5-games/24925</Link>
+      <Nome>DragonHunter</Nome>
+      <Notas>5</Notas>
+      <Variacoes>Varia</Variacoes>
+    </Game>
+    <Game index="4">
+      <Blocao>Sim</Blocao>
+      <Categorias>Dificil</Categorias>
+      <Link>https://www.addictinggames.com/embed/html5-games/24937</Link>
+      <Nome>FastCircles</Nome>
+      <Notas>7</Notas>
+      <Variacoes>Todo dia</Variacoes>
+    </Game>
+    <Game index="5">
+      <Blocao>Nao</Blocao>
+      <Categorias>Facil</Categorias>
+      <Link>https://www.addictinggames.com/embed/html5-games/24950</Link>
+      <Nome>MatchTheAnimal</Nome>
+      <Notas>7</Notas>
+      <Variacoes>Todo dia</Variacoes>
+    </Game>
+    <Game index="6">
+      <Blocao>Sim</Blocao>
+      <Categorias>Facil</Categorias>
+      <Link>https://www.addictinggames.com/embed/html5-games/24948</Link>
+      <Nome>SpeedBilliards</Nome>
+      <Notas>9</Notas>
+      <Variacoes>Todo dia</Variacoes>
+    </Game>
+    <Game index="7">
+      <Blocao>Sim</Blocao>
+      <Categorias>Medio</Categorias>
+      <Link>https://www.addictinggames.com/embed/html5-games/24899</Link>
+      <Nome>Knifemaster</Nome>
+      <Notas>9</Notas>
+      <Variacoes>Varia</Variacoes>
+    </Game>
+    <Game index="8">
+      <Blocao>Sim</Blocao>
+      <Categorias>Facil</Categorias>
+      <Link>https://www.addictinggames.com/embed/html5-games/24907</Link>
+      <Nome>Sticky Balls</Nome>
+      <Notas>9</Notas>
+      <Variacoes>Varia</Variacoes>
+    </Game>
+    <Game index="9">
+      <Blocao>Sim</Blocao>
+      <Categorias>Medio</Categorias>
+      <Link>https://www.addictinggames.com/embed/html5-games/24961</Link>
+      <Nome>BottleFlipChallenge</Nome>
+      <Notas>8</Notas>
+      <Variacoes>Varia</Variacoes>
+    </Game>
+    <Game index="10">
+      <Blocao>Sim</Blocao>
+      <Categorias>Medio</Categorias>
+      <Link>https://www.addictinggames.com/embed/html5-games/24788</Link>
+      <Nome>TowerRush</Nome>
+      <Notas>10</Notas>
+      <Variacoes>Todo dia</Variacoes>
+    </Game>
+    <Game index="11">
+      <Blocao>Nao</Blocao>
+      <Categorias>Facil</Categorias>
+      <Link>https://www.addictinggames.com/embed/html5-games/24729</Link>
+      <Nome>NeonBlock</Nome>
+      <Notas>6</Notas>
+      <Variacoes>Varia</Variacoes>
+    </Game>
+    <Game index="12">
+      <Blocao>Sim</Blocao>
+      <Categorias>Medio</Categorias>
+      <Link>https://www.addictinggames.com/embed/html5-games/24714</Link>
+      <Nome>SnakesAndCircles</Nome>
+      <Notas>8</Notas>
+      <Variacoes>Varia</Variacoes>
+    </Game>
+    <Game index="13">
+      <Blocao>Nao</Blocao>
+      <Categorias>Facil</Categorias>
+      <Link>https://www.addictinggames.com/embed/html5-games/23614</Link>
+      <Nome>KidsZooFun</Nome>
+      <Notas>5</Notas>
+      <Variacoes>Varia</Variacoes>
+    </Game>
+    <Game index="14">
+      <Blocao>Nao</Blocao>
+      <Categorias>Medio</Categorias>
+      <Link>https://www.addictinggames.com/embed/html5-games/24705</Link>
+      <Nome>StackColors</Nome>
+      <Notas>6</Notas>
+      <Variacoes>Varia</Variacoes>
+    </Game>
+    <Game index="15">
+      <Blocao>Sim</Blocao>
+      <Categorias>Facil</Categorias>
+      <Link>https://www.addictinggames.com/embed/html5-games/24699</Link>
+      <Nome>PassagePassage</Nome>
+      <Notas>9</Notas>
+      <Variacoes>Todo dia</Variacoes>
+    </Game>
+    <Game index="16">
+      <Blocao>Sim</Blocao>
+      <Categorias>Facil</Categorias>
+      <Link>https://www.addictinggames.com/embed/html5-games/24694</Link>
+      <Nome>CanYouDoIt</Nome>
+      <Notas>8</Notas>
+      <Variacoes>Varia</Variacoes>
+    </Game>
+    <Game index="17">
+      <Blocao>Sim</Blocao>
+      <Categorias>Facil</Categorias>
+      <Link>https://www.addictinggames.com/embed/html5-games/24685</Link>
+      <Nome>TriangleWay</Nome>
+      <Notas>8</Notas>
+      <Variacoes>Varia</Variacoes>
+    </Game>
+    <Game index="18">
+      <Blocao>Sim</Blocao>
+      <Categorias>Facil</Categorias>
+      <Link>https://www.addictinggames.com/embed/html5-games/24686</Link>
+      <Nome>BadmintonBrawl</Nome>
+      <Notas>10</Notas>
+      <Variacoes>Todo dia</Variacoes>
+    </Game>
+    <Game index="19">
+      <Blocao>Nao</Blocao>
+      <Categorias>Facil</Categorias>
+      <Link>https://www.addictinggames.com/embed/html5-games/24682</Link>
+      <Nome>RingFall</Nome>
+      <Notas>8</Notas>
+      <Variacoes>Varia</Variacoes>
+    </Game>
+    <Game index="20">
+      <Blocao>Nao</Blocao>
+      <Categorias>Dificil</Categorias>
+      <Link>https://www.addictinggames.com/embed/html5-games/24680</Link>
+      <Nome>SoldiersFury</Nome>
+      <Notas>7</Notas>
+      <Variacoes>Varia</Variacoes>
+    </Game>
+    <Game index="21">
+      <Blocao>Sim</Blocao>
+      <Categorias>Dificil</Categorias>
+      <Link>https://www.addictinggames.com/embed/html5-games/24677</Link>
+      <Nome>BlockDodger</Nome>
+      <Notas>7</Notas>
+      <Variacoes>Varia</Variacoes>
+    </Game>
+    <Game index="22">
+      <Blocao>Nao</Blocao>
+      <Categorias>Dificil</Categorias>
+      <Link>https://www.addictinggames.com/embed/html5-games/24656</Link>
+      <Nome>ColoredDownhill</Nome>
+      <Notas>6</Notas>
+      <Variacoes>Varia</Variacoes>
+    </Game>
+    <Game index="23">
+      <Blocao>Sim</Blocao>
+      <Categorias>Medio</Categorias>
+      <Link>https://www.addictinggames.com/embed/html5-games/24647</Link>
+      <Nome>BeatHop</Nome>
+      <Notas>8</Notas>
+      <Variacoes>Todo dia</Variacoes>
+    </Game>
+    <Game index="24">
+      <Blocao>Sim</Blocao>
+      <Categorias>Dificil</Categorias>
+      <Link>https://www.addictinggames.com/embed/html5-games/24650</Link>
+      <Nome>GemotricalDash</Nome>
+      <Notas>8</Notas>
+      <Variacoes>Todo dia</Variacoes>
+    </Game>
+    <Game index="25">
+      <Blocao>Não</Blocao>
+      <Categorias>Medio</Categorias>
+      <Link>https://www.addictinggames.com/embed/html5-games/24642</Link>
+      <Nome>BallsAndBricks</Nome>
+      <Notas>8</Notas>
+      <Variacoes>Varia</Variacoes>
+    </Game>
+    <Game index="26">
+      <Blocao>Não</Blocao>
+      <Categorias>Facil</Categorias>
+      <Link>https://www.addictinggames.com/embed/html5-games/24644</Link>
+      <Nome>SpiralPaint</Nome>
+      <Notas>8</Notas>
+      <Variacoes>Varia</Variacoes>
+    </Game>
+    <Game index="27">
+      <Blocao>Sim</Blocao>
+      <Categorias>Medio</Categorias>
+      <Link>https://www.addictinggames.com/embed/html5-games/23716</Link>
+      <Nome>BoxingPunches</Nome>
+      <Notas>9</Notas>
+      <Variacoes>Todo dia</Variacoes>
+    </Game>
+    <Game index="28">
+      <Blocao>Nao</Blocao>
+      <Categorias>Dificil</Categorias>
+      <Link>https://www.addictinggames.com/embed/html5-games/24621</Link>
+      <Nome>JackOCopter</Nome>
+      <Notas>7</Notas>
+      <Variacoes>Varia</Variacoes>
+    </Game>
+    <Game index="29">
+      <Blocao>Nao</Blocao>
+      <Categorias>Medio</Categorias>
+      <Link>https://www.addictinggames.com/embed/html5-games/23651</Link>
+      <Nome>KnifeRain</Nome>
+      <Notas>6</Notas>
+      <Variacoes>Varia</Variacoes>
+    </Game>
+    <Game index="30">
+      <Blocao>Nao</Blocao>
+      <Categorias>Medio</Categorias>
+      <Link>https://www.addictinggames.com/embed/html5-games/24626</Link>
+      <Nome>TowerBreaker</Nome>
+      <Notas>7</Notas>
+      <Variacoes>Varia</Variacoes>
+    </Game>
+    <Game index="31">
+      <Blocao>Nao</Blocao>
+      <Categorias>Facil</Categorias>
+      <Link>https://www.addictinggames.com/embed/html5-games/24587</Link>
+      <Nome>ParapalsParapals</Nome>
+      <Notas>5</Notas>
+      <Variacoes>Varia</Variacoes>
+    </Game>
+    <Game index="32">
+      <Blocao>Nao</Blocao>
+      <Categorias>Facil</Categorias>
+      <Link>https://www.addictinggames.com/embed/html5-games/24592</Link>
+      <Nome>JumpMonkey</Nome>
+      <Notas>7</Notas>
+      <Variacoes>Varia</Variacoes>
+    </Game>
+    <Game index="33">
+      <Blocao>Sim</Blocao>
+      <Categorias>Medio</Categorias>
+      <Link>https://www.addictinggames.com/embed/html5-games/23594</Link>
+      <Nome>PutBacon</Nome>
+      <Notas>8</Notas>
+      <Variacoes>Todo dia</Variacoes>
+    </Game>
+    <Game index="34">
+      <Blocao>Nao</Blocao>
+      <Categorias>Medio</Categorias>
+      <Link>https://www.addictinggames.com/embed/html5-games/23914</Link>
+      <Nome>JellyJumper</Nome>
+      <Notas>7</Notas>
+      <Variacoes>Varia</Variacoes>
+    </Game>
+    <Game index="35">
+      <Blocao>Nao</Blocao>
+      <Categorias>Dificil</Categorias>
+      <Link>https://www.addictinggames.com/embed/html5-games/23565</Link>
+      <Nome>JuiceBottle</Nome>
+      <Notas>8</Notas>
+      <Variacoes>Varia</Variacoes>
+    </Game>
+    <Game index="36">
+      <Blocao>Nao</Blocao>
+      <Categorias>Medio</Categorias>
+      <Link>https://www.addictinggames.com/embed/html5-games/23571</Link>
+      <Nome>JumpBottle</Nome>
+      <Notas>8</Notas>
+      <Variacoes>Varia</Variacoes>
+    </Game>
+    <Game index="37">
+      <Blocao>Sim</Blocao>
+      <Categorias>Medio</Categorias>
+      <Link>https://www.addictinggames.com/embed/html5-games/24032</Link>
+      <Nome>FlappybirdClassic</Nome>
+      <Notas>9</Notas>
+      <Variacoes>Todo dia</Variacoes>
+    </Game>
+    <Game index="38">
+      <Blocao></Blocao>
+      <Categorias></Categorias>
+      <Link></Link>
+      <Nome></Nome>
+      <Notas></Notas>
+      <Variacoes></Variacoes>
+    </Game>
+    <Game index="39">
+      <Blocao></Blocao>
+      <Categorias></Categorias>
+      <Link></Link>
+      <Nome></Nome>
+      <Notas></Notas>
+      <Variacoes></Variacoes>
+    </Game>
+    <Game index="40">
+      <Blocao></Blocao>
+      <Categorias></Categorias>
+      <Link></Link>
+      <Nome></Nome>
+      <Notas></Notas>
+      <Variacoes></Variacoes>
+    </Game>
+  </Games>
+</data>

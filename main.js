@@ -10,10 +10,18 @@ $(document).ready(function() {
                 gameManager.storeAction(100);
                 break;
             default:
-                gameManager.CallGameEmbed("game-link", "game-info");
+                gameManager.callGameEmbed("game-link", "game-info");
                 break;
         }
     })
 });
 
-gameManager.start();
+var oXHR = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');
+
+function reportStatus() {
+    if (oXHR.readyState == 4)               // REQUEST COMPLETED.
+        gameManager.randomizeGames(this.responseXML);      // ALL SET. NOW SHOW XML DATA.
+    }
+oXHR.onreadystatechange = reportStatus;
+oXHR.open("GET", "game_info.xml", true);      // true = ASYNCHRONOUS REQUEST (DESIRABLE), false = SYNCHRONOUS REQUEST.
+oXHR.send();
