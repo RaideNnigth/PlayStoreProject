@@ -61,8 +61,16 @@ body {
 }
 #ij21 {
   grid-area: g3;
+  background-image: url("/Assets/Games_Capes/BottleFlipChallenge.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 #ij22 {
+  background-image: url("/Assets/Games_Capes/MatchTheAnimal.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
   grid-area: g4;
 }
 #ij30 {
@@ -76,15 +84,31 @@ body {
   box-shadow: 3px 7px 16px -1px rgba(0, 0, 0, 0.9);
 }
 #ij32 {
+  background-image: url("/Assets/Games_Capes/FastCicles.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
   grid-area: g5;
 }
 #ij42 {
+  background-image: url("/Assets/Games_Capes/KnifeMaster.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
   grid-area: g6;
 }
 #ij50 {
+  background-image: url("/Assets/Games_Capes/SpeedBilliards.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
   grid-area: g7;
 }
 #ij51 {
+  background-image: url("/Assets/Games_Capes/StickyBalls.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
   grid-area: g8;
 }
 #ij52 {
