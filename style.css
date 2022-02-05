@@ -6,6 +6,10 @@ body {
 }
 
 .cell-grid {
+  background-image: url("/Assets/background.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
   background-color:  #2980B9;
   margin: 0px;
   padding: 25px;
